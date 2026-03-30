@@ -35,9 +35,12 @@ Kernel Event Sniffer: Actively monitors the Windows Event API for Kernel-PnP dro
 
 Non-Intrusive: Uses standard pymobiledevice3 bindings. Does not interfere with standard iTunes/Apple Devices communication or AFC data transfers.
 
-🚀 Background & The Future of iOS Tooling
+
+## 🚀 Background & The Future of iOS Tooling
 TetherGuard was born out of deep-dive USB transport research for LibIMobile.
 
+``` markdown
 Currently in development, LibIMobile is a massive, high-performance C++23 rewrite of the entire iOS tooling stack (replacing legacy libimobiledevice, pymobiledevice3, and fragmented jailbreak/forensic tools). It features asynchronous zero-copy architecture, native GPU acceleration, and comprehensive support for iOS 17+ CoreDevice QUIC tunnels.
 
 If you are interested in the future of commercial-grade iOS forensics, protocol analysis, and hardware-level device management, follow my GitHub to be notified when LibIMobile goes live.
+```
