@@ -41,11 +41,14 @@ TetherGuard was born out of deep-dive USB transport research for LibIMobile.
 
 ``` markdown
 
-Currently in development, LibIMobile is a massive, high-performance C++23 rewrite of the entire iOS tooling stack
+Currently in development, LibIMobile is a massive,
+high-performance C++23 rewrite of the entire iOS tooling stack
 (replacing legacy libimobiledevice, pymobiledevice3, and fragmented jailbreak/forensic tools).
-It features asynchronous zero-copy architecture, native GPU acceleration,and comprehensive support for iOS 17+ CoreDevice QUIC tunnels.
+It features asynchronous zero-copy architecture,
+native GPU acceleration,and comprehensive support for iOS 17+ CoreDevice QUIC tunnels.
 
-If you are interested in the future of commercial-grade iOS forensics, protocol analysis, and hardware-level device management,
+If you are interested in the future of commercial-grade iOS forensics, protocol analysis,
+and hardware-level device management,
 
 follow my GitHub to be notified when LibIMobile goes live.
 
