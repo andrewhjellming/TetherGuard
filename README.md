@@ -27,7 +27,8 @@ python -m tetherguard.main
 
 Alternatively, Windows users can just run the start_tetherguard.bat script.
 
-Features
+## Features
+
 D0 State Lock: Prevents Windows micro-idles from killing your session.
 
 Kernel Event Sniffer: Actively monitors the Windows Event API for Kernel-PnP drops to help diagnose unstable host hardware.
