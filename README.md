@@ -23,6 +23,7 @@ git clone [https://github.com/andrewhjellming/TetherGuard.git](https://github.co
 cd TetherGuard
 pip install -r requirements.txt
 python -m tetherguard.main
+```
 
 Alternatively, Windows users can just run the start_tetherguard.bat script.
 
