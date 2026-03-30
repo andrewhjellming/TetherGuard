@@ -1,0 +1,59 @@
+[2026-03-29 20:22:58] [SYSTEM] TetherGuard Application Monitor Boot Sequence Initiated.
+[2026-03-29 20:22:58] [SYSTEM] Spawning child process...
+[2026-03-29 22:18:21] [APP_STDERR] Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+[2026-03-29 22:18:21] [APP_STDERR] handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+[2026-03-29 22:18:21] [APP_STDERR] Traceback (most recent call last):
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\events.py", line 84, in _run
+[2026-03-29 22:18:21] [APP_STDERR] self._context.run(self._callback, *self._args)
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+[2026-03-29 22:18:21] [APP_STDERR] self._sock.shutdown(socket.SHUT_RDWR)
+[2026-03-29 22:18:21] [APP_STDERR] ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-03-29 22:18:21] [APP_STDERR] Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+[2026-03-29 22:18:21] [APP_STDERR] handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+[2026-03-29 22:18:21] [APP_STDERR] Traceback (most recent call last):
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\events.py", line 84, in _run
+[2026-03-29 22:18:21] [APP_STDERR] self._context.run(self._callback, *self._args)
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+[2026-03-29 22:18:21] [APP_STDERR] self._sock.shutdown(socket.SHUT_RDWR)
+[2026-03-29 22:18:21] [APP_STDERR] ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-03-29 22:18:21] [APP_STDERR] Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+[2026-03-29 22:18:21] [APP_STDERR] handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+[2026-03-29 22:18:21] [APP_STDERR] Traceback (most recent call last):
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\events.py", line 84, in _run
+[2026-03-29 22:18:21] [APP_STDERR] self._context.run(self._callback, *self._args)
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+[2026-03-29 22:18:21] [APP_STDERR] self._sock.shutdown(socket.SHUT_RDWR)
+[2026-03-29 22:18:21] [APP_STDERR] ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-03-29 22:18:21] [APP_STDERR] Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+[2026-03-29 22:18:21] [APP_STDERR] handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+[2026-03-29 22:18:21] [APP_STDERR] Traceback (most recent call last):
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\events.py", line 84, in _run
+[2026-03-29 22:18:21] [APP_STDERR] self._context.run(self._callback, *self._args)
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+[2026-03-29 22:18:21] [APP_STDERR] self._sock.shutdown(socket.SHUT_RDWR)
+[2026-03-29 22:18:21] [APP_STDERR] ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-03-29 22:18:21] [APP_STDERR] Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+[2026-03-29 22:18:21] [APP_STDERR] handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+[2026-03-29 22:18:21] [APP_STDERR] Traceback (most recent call last):
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\events.py", line 84, in _run
+[2026-03-29 22:18:21] [APP_STDERR] self._context.run(self._callback, *self._args)
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+[2026-03-29 22:18:21] [APP_STDERR] self._sock.shutdown(socket.SHUT_RDWR)
+[2026-03-29 22:18:21] [APP_STDERR] ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-03-29 22:18:21] [APP_STDERR] Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+[2026-03-29 22:18:21] [APP_STDERR] handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+[2026-03-29 22:18:21] [APP_STDERR] Traceback (most recent call last):
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\events.py", line 84, in _run
+[2026-03-29 22:18:21] [APP_STDERR] self._context.run(self._callback, *self._args)
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+[2026-03-29 22:18:21] [APP_STDERR] self._sock.shutdown(socket.SHUT_RDWR)
+[2026-03-29 22:18:21] [APP_STDERR] ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-03-29 22:18:21] [APP_STDERR] Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+[2026-03-29 22:18:21] [APP_STDERR] handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+[2026-03-29 22:18:21] [APP_STDERR] Traceback (most recent call last):
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\events.py", line 84, in _run
+[2026-03-29 22:18:21] [APP_STDERR] self._context.run(self._callback, *self._args)
+[2026-03-29 22:18:21] [APP_STDERR] File "C:\Program Files\Python\3.12\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+[2026-03-29 22:18:21] [APP_STDERR] self._sock.shutdown(socket.SHUT_RDWR)
+[2026-03-29 22:18:21] [APP_STDERR] ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-03-29 22:18:21] [CRASH] Process terminated abnormally with exit code: 3489660927

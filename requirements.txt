@@ -1,0 +1,8 @@
+# UI Framework
+PyQt6>=6.4.0
+
+# iOS Protocol Bindings
+pymobiledevice3>=4.0.0
+
+# Windows Event API Hooks
+pywin32>=306

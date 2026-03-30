@@ -1,0 +1,8 @@
+[2026-03-26 00:16:21] [SYSTEM] TetherGuard Application Monitor Boot Sequence Initiated.
+[2026-03-26 00:16:21] [SYSTEM] Spawning child process...
+[2026-03-26 00:19:10] [APP_STDERR] Q:\Github\Projects\TetherGuard\tetherguard\services\heartbeat.py:20: RuntimeWarning: coroutine 'create_using_usbmux' was never awaited
+[2026-03-26 00:19:10] [APP_STDERR] lockdown = create_using_usbmux()
+[2026-03-26 00:19:10] [APP_STDERR] RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+[2026-03-26 00:19:10] [APP_STDERR] sys:1: RuntimeWarning: coroutine 'create_using_usbmux' was never awaited
+[2026-03-26 00:19:10] [APP_STDERR] RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+[2026-03-26 00:19:10] [SYSTEM] Process exited cleanly (Code: 0)
